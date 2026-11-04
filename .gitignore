@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+build/
+webapp/dist/
+webapp/node_modules/
+*.log
